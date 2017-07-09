@@ -1,3 +1,5 @@
 # GoWiki local build and saved pages
 gowiki/*.txt
 gowiki/wiki
+# Simpleweb local build
+simpleweb/simpleweb
